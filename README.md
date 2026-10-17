@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Structures and Algorithms in Python
 
 A structured, continuously updated collection of **Data Structures and
@@ -615,3 +616,6 @@ continuous improvement.
 **Language:** Python 3\
 **Status:** Actively maintained as new concepts and solutions are
 learned.
+=======
+# DSA_PYTHON
+>>>>>>> origin/main
